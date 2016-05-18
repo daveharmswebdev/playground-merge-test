@@ -4,4 +4,4 @@ function fired(arg) {
 	console.log(arg);
 }
 
-fired('woohoo');
+fired('woohoo and fuck you');
