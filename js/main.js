@@ -5,3 +5,4 @@ function fired(arg) {
 }
 
 fired('woohoo yeah boy');
+
